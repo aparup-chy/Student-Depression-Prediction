@@ -5,14 +5,13 @@ A comprehensive implementation of multiple machine learning algorithms for predi
 **Course:** CSE422 - Artificial Intelligence  
 **Institution:** BRAC University  
 **Semester:** Fall 2024  
-**Group:** 18  
 
 ---
 
 ## 👥 Team Members
 
-- **Aparup Chowdhury** - ID: 22101229  
-- **Nabid Hasan Omi** - ID: 23241105  
+- **Aparup Chowdhury**
+- **Nabid Hasan Omi**
 
 ---
 
@@ -283,11 +282,13 @@ This model should NOT be used as a substitute for professional mental health dia
 
 ## 📧 Contact
 
-**Project Team**
-- Aparup Chowdhury: 22101229@ulab.edu.bd
-- Nabid Hasan Omi: 23241105@ulab.edu.bd
+For questions or collaboration opportunities, please reach out via email us.
 
-For questions or collaboration opportunities, please reach out via email or through the university portal.
+**Project Team**
+- Aparup Chowdhury: aparup.chowdhury@g.bracu.ac.bd
+- Nabid Hasan Omi: nabid.hasan.omi@g.bracu.ac.bd
+
+
 
 ---
 
